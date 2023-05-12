@@ -7,5 +7,7 @@ A Recommender System is one of the most famous applications of Data science and 
 There are basically three types of recommender systems explained in this notebook -
 
 Demographic filtering (Simple Recommender)
+
 Content-Based Filtering
+
 Collaborative Filtering
