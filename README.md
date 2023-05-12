@@ -12,3 +12,9 @@ Demographic filtering (Simple Recommender)
 Content-Based Filtering
 
 Collaborative Filtering
+
+> Datasets used in this notebook
+
+5000 movie dataset
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
